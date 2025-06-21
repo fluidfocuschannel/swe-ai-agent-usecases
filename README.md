@@ -94,13 +94,4 @@ For questions, suggestions, or discussions about these use cases:
 - Start a discussion for general AI agent implementation topics
 - Contribute your own use cases and experiences
 
-## 🔗 Additional Resources
-
-- [AI Agent Implementation Best Practices](docs/best-practices.md)
-- [Prompt Engineering Guidelines](docs/prompt-engineering.md)
-- [Cost Estimation Calculator](docs/cost-calculator.md)
-- [Integration Examples](examples/)
-
----
-
 **Note**: These use cases are designed as starting points and should be adapted to your specific organizational needs, security requirements, and technical constraints.
